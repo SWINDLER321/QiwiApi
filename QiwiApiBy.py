@@ -71,7 +71,7 @@ from QiwiApiBy import QiwiApi
 import webbrowser as wb
 
 
-print("СКРИПТ: @DarkWeb!")
+print("СКРИПТ КАНАЛА: @DarkWeb!")
 print("Версия: 0.1")
 print("Сделанна: @SWWINDLER,Телеграмм @SWWINDLER")
 
